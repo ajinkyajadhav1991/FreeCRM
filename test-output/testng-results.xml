@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-13T17:25:50 PDT" name="Default suite" finished-at="2021-04-13T17:25:56 PDT" duration-ms="6552">
+    <groups>
+    </groups>
+    <test started-at="2021-04-13T17:25:50 PDT" name="Default test" finished-at="2021-04-13T17:25:56 PDT" duration-ms="6552">
+      <class name="HeadersTest.HeaderTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:HeadersTest.HeaderTest@2bbf180e]" started-at="2021-04-13T17:25:50 PDT" name="beforeTest" finished-at="2021-04-13T17:25:50 PDT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:HeadersTest.HeaderTest@2bbf180e]" started-at="2021-04-13T17:25:50 PDT" name="beforeMethod" finished-at="2021-04-13T17:25:56 PDT" duration-ms="6066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyHeaderLogo()[pri:0, instance:HeadersTest.HeaderTest@2bbf180e]" started-at="2021-04-13T17:25:56 PDT" name="verifyHeaderLogo" finished-at="2021-04-13T17:25:56 PDT" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeaderLogo -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:HeadersTest.HeaderTest@2bbf180e]" started-at="2021-04-13T17:25:56 PDT" name="afterMethod" finished-at="2021-04-13T17:25:56 PDT" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:HeadersTest.HeaderTest@2bbf180e]" started-at="2021-04-13T17:25:56 PDT" name="afterTest" finished-at="2021-04-13T17:25:56 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- HeadersTest.HeaderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
